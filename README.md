@@ -1,7 +1,7 @@
 Spider-Nightmare
 ================
 
-Game programmed in C# with XNA and a Kinect.
+Game programmed in C# with XNA and a Kinect with Léo Riera.
 The player has to move his arms in front of a Kinect in order to move the arms of a character which is constantly firing projectile on the screen. By directing the arms, the player is able to direct the projectiles. Spiders are permanently spawning on the screen.
 The goal of the game is to kill as many spiders as possible in order to make the greatest score possible without being touched 3 times by the spiders. 
 
@@ -22,7 +22,7 @@ Killing a spider gives you 5 points. The score system is working with the follow
  
 ===============
 
-Jeu programme en C# avec XNA et une Kinect.
+Jeu programme en C# avec XNA et une Kinect avec Léo Riera.
 Le joueur doit bouger ses bras en face d'une Kinect afin de faire bouger les bras d'un personnage qui tire constamment des projectiles à l'écran. En dirigeant les bras, le joueur est capable de diriger les projectiles. Des araignées apparaissent de façon permanente à l'écran.
 Le but du jeu est de tuer autant d'araignées que posssible afin de réaliser le plus grand score possible sans être touchés 3 fois par les araignées.
 
