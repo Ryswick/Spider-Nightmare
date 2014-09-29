@@ -20,6 +20,8 @@ The game is composed of 5 difficulty modes : Easy, Normal, Medium, Hard and God.
 Killing a spider gives you 5 points. The score system is working with the following formula :
  * New score = Actual score + 5 * combo multiplier * difficulty multiplier
  
+There is a possibility to play the game only with a mouse by downloading the good version.
+
 ===============
 
 Jeu programme en C# avec XNA et une Kinect avec Léo Riera.
@@ -40,3 +42,5 @@ Le jeu est composé de 5 modes de difficultés : Facile, Normal, Moyen, Difficil
 
 Tuer une araignée vous apporte 5 points. Le système de score fonctionne selon la formule suivante :
  * Nouveau score = Score actuel + 5 * combo multiplicateur * multiplicateur de difficulté
+
+Il est possible de jouer au jeu uniquement avec une souris en téléchargeant la version correspondante.
